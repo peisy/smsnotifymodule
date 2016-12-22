@@ -1,7 +1,8 @@
 package cn.sgtcloud.common.smsnotifymodule.service;
 
 import java.io.Serializable;
-import java.util.Arrays;
+import java.util.Arrays;   
+
 
 public class UserInfo implements Serializable {
 	
